@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Project_PC_26_Module1\Project_PC_26_Module1\bin\Debug\Project_PC_26_Module1.exe.config
+C:\Users\USER\source\repos\Project_PC_26_Module1\Project_PC_26_Module1\bin\Debug\Project_PC_26_Module1.exe
+C:\Users\USER\source\repos\Project_PC_26_Module1\Project_PC_26_Module1\bin\Debug\Project_PC_26_Module1.pdb
+C:\Users\USER\source\repos\Project_PC_26_Module1\Project_PC_26_Module1\obj\Debug\Project_PC_26_Module1.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Project_PC_26_Module1\Project_PC_26_Module1\obj\Debug\Project_PC_26_Module1.Form1.resources
+C:\Users\USER\source\repos\Project_PC_26_Module1\Project_PC_26_Module1\obj\Debug\Project_PC_26_Module1.MenuCategory.resources
+C:\Users\USER\source\repos\Project_PC_26_Module1\Project_PC_26_Module1\obj\Debug\Project_PC_26_Module1.Properties.Resources.resources
+C:\Users\USER\source\repos\Project_PC_26_Module1\Project_PC_26_Module1\obj\Debug\Project_PC_26_Module1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Project_PC_26_Module1\Project_PC_26_Module1\obj\Debug\Project_PC_26_Module1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Project_PC_26_Module1\Project_PC_26_Module1\obj\Debug\Project_PC_26_Module1.exe
+C:\Users\USER\source\repos\Project_PC_26_Module1\Project_PC_26_Module1\obj\Debug\Project_PC_26_Module1.pdb
+C:\Users\USER\source\repos\Project_PC_26_Module1\Project_PC_26_Module1\obj\Debug\Project_PC_26_Module1.Menu.resources
+C:\Users\USER\source\repos\Project_PC_26_Module1\Project_PC_26_Module1\obj\Debug\Project_PC_26_Module1.PromotionForm.resources

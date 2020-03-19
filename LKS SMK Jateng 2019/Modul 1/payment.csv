@@ -1,0 +1,4 @@
+id;header_order_id;promotion_id;payment_type;amount_to_pay;amount_paid
+1;1;NULL;Cash;80500;100000
+2;2;2;Credit;182447,5;182447,5
+3;4;1;Cash;142600;150000
